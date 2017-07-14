@@ -65,8 +65,6 @@
     }
   ],
   "monikerPath": [
-    "azureps-cmdlets-docs/ResourceManager/mapping/monikerMapping.json",
-    "azureps-cmdlets-docs/ServiceManagement/mapping/monikerMapping.json",
     "azureps-cmdlets-docs/AzureStack/mapping/monikerMapping.json"
   ],
   "JoinTOCPlugin": [
